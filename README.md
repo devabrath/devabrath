@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on **Android Application Development**
 
 - 💬 Ask me about **...Anything**
 
