@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **...Anything**
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 
 - 📫 How to reach me **devabrathsahu7032@gmail.com**
 
