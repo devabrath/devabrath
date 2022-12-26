@@ -20,10 +20,10 @@
 
 <h3 align="left"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Connect with me : 😊</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devabrath-sahu-116854251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devabrath-sahu-116854251" height="30" width="40" /></a>
-<a href="https://fb.com/devabrath sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devabrath sahu" height="30" width="40" /></a>
-<a href="https://instagram.com/name_is_deva_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="name_is_deva_15" height="30" width="40" /></a>
-<a href="mailto:devabrathsahu7032@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="25" width="50" /></a>
+<a href="https://linkedin.com/in/devabrath-sahu-116854251" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devabrath-sahu-116854251" height="30" width="40" /></a>
+<a href="https://fb.com/devabrath sahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devabrath sahu" height="30" width="40" /></a>
+<a href="https://instagram.com/name_is_deva_15" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="name_is_deva_15" height="30" width="40" /></a>
+<a href="mailto:devabrathsahu7032@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="25" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
