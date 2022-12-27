@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif">
+<img align="center" alt="banner" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif" loop=infinite />
 
 <h1 align="center">Hi 👋, I'm Devabrath Sahu</h1>
 <h3 align="center">I'm a Developer from India ❤</h3>
