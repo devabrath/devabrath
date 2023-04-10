@@ -4,7 +4,7 @@ Hey, I'm Devabrath👋🏼,<br><br>A normal guy who Knows a Bit of Coding. I lik
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devabrath&label=Profile%20views&color=0e75b6&style=flat" alt="devabrath" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Saizuo&icon=6&color=6)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Calculator-App**
 
@@ -43,8 +43,5 @@ Hey, I'm Devabrath👋🏼,<br><br>A normal guy who Knows a Bit of Coding. I lik
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saizuo&icon=6&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/noerror)
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
