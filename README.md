@@ -6,10 +6,6 @@ Hey, I'm Devabrath👋🏼,<br><br>A normal guy who Knows a Bit of Coding. I lik
 
 [![](https://visitcount.itsvg.in/api?id=Saizuo&icon=6&color=6)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Calculator-App**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on open source
 
 - 💬 Ask me about **...Anything**
