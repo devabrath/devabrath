@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hey, I'm Devabrath👋🏼,<br><br>A normal guy who Knows a Bit of Coding. I like to work on projects, hang out with friends and family, read books, go on adventures, and work on new ideas.<br><br>Curious about the world at an early age, I was always working on projects.<br><br>Aiming to generate financial independence. In the meantime, I work on diversifying my career and skills.
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
