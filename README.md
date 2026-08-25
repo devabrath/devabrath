@@ -61,27 +61,3 @@ I'm passionate about turning ideas into practical, scalable applications. I enjo
 </p>
 
 ---
-
-## 🐍 Watch My Contributions Move
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devabrath/devabrath/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## ✨ Developer Thoughts
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Developer Quote"/>
-</p>
-
-<div align="center">
-
-### 🚀 *Build. Learn. Improve. Repeat.*
-
-**Thanks for visiting my profile!**
-
-<img src="https://komarev.com/ghpvc/?username=devabrath&label=Thanks%20for%20visiting!&style=flat-square" alt="Visitors"/>
-
-</div>
