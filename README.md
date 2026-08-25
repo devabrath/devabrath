@@ -54,28 +54,10 @@ I'm passionate about turning ideas into practical, scalable applications. I enjo
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devabrath&show_icons=true&include_all_commits=true&hide_border=false&theme=transparent"
-    alt="GitHub Stats"
-  />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=devabrath&theme=transparent&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabrath&layout=compact&langs_count=8&hide_border=false&theme=transparent"
-    alt="Top Languages"
-  />
+  <img src="https://streak-stats.demolab.com?user=devabrath&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
