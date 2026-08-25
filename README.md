@@ -65,7 +65,7 @@ I'm passionate about turning ideas into practical, scalable applications. I enjo
 ## 🐍 Watch My Contributions Move
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devabrath/devabrath/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/devabrath/devabrath/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
