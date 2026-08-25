@@ -58,16 +58,16 @@ I'm passionate about turning ideas into practical, scalable applications. I enjo
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devabrath&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Devabrath's GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabrath&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devabrath&show_icons=true&include_all_commits=true&hide_border=true" alt="Devabrath's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabrath&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devabrath&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=devabrath&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devabrath&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=devabrath&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
