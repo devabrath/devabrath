@@ -58,16 +58,24 @@ I'm passionate about turning ideas into practical, scalable applications. I enjo
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devabrath&show_icons=true&include_all_commits=true&hide_border=true" alt="Devabrath's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabrath&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=devabrath&show_icons=true&include_all_commits=true&hide_border=false&theme=transparent"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devabrath&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=devabrath&theme=transparent&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devabrath&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabrath&layout=compact&langs_count=8&hide_border=false&theme=transparent"
+    alt="Top Languages"
+  />
 </p>
 
 ---
